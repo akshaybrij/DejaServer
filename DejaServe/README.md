@@ -14,7 +14,7 @@ curl -X PUT -d data=google http://localhost:8080/process
 
 #Delete Request:-
 
-curl -X DELETE -d data=google http://localhost:8080/proces
+curl -X DELETE -d data=google http://localhost:8080/process
 
 #GET Request:-
 
